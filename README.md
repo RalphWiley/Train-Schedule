@@ -6,7 +6,8 @@
 
 ## Screenshots
 
-![Alt text](/relative/path/to/images/Screen Shot 2018-03-02 at 8.44.17 PM?raw=true "Pawnee Train Station")
+<img width="1167" alt="screen shot 2018-03-02 at 8 44 17 pm" src="https://user-images.githubusercontent.com/33463643/36929995-6e1d962c-1e5e-11e8-802c-9fdc0d7501b6.png">
+
 
 ## Tech/framework used
 - jQuery
