@@ -6,7 +6,7 @@
 
 ## Screenshots
 
-<img width="1167" alt="screen shot 2018-03-02 at 8 44 17 pm" src="https://user-images.githubusercontent.com/33463643/36929995-6e1d962c-1e5e-11e8-802c-9fdc0d7501b6.png">
+<img width="1248" alt="screen shot 2018-03-02 at 9 20 49 pm" src="https://user-images.githubusercontent.com/33463643/36930087-c02dbf7c-1e5f-11e8-80bd-5b178b30cbbe.png">
 
 
 ## Tech/framework used
